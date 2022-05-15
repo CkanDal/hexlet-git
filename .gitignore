@@ -1,0 +1,5 @@
+/coverage
+access.log
+node_modules
+/db*.sqlite3
+doc/**/*.txt
